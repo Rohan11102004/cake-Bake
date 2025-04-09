@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nami's Cake and Bake</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Hero Banner -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Nami's Cake and Bake</h1>
+      <p>Delicious Moments Baked Just for You</p>
+    </div>
+  </header>
+
+  <!-- Types of Cakes -->
+  <section class="cakes">
+    <h2>Our Cake Types</h2>
+    <div class="cake-grid">
+      <div class="cake-card">
+        <img src="https://via.placeholder.com/200x150?text=Chocolate+Cake" alt="Chocolate Cake">
+        <h3>Chocolate Cake</h3>
+      </div>
+      <div class="cake-card">
+        <img src="https://via.placeholder.com/200x150?text=Vanilla+Cake" alt="Vanilla Cake">
+        <h3>Vanilla Cake</h3>
+      </div>
+      <div class="cake-card">
+        <img src="https://via.placeholder.com/200x150?text=Fruit+Cake" alt="Fruit Cake">
+        <h3>Fruit Cake</h3>
+      </div>
+      <div class="cake-card">
+        <img src="https://via.placeholder.com/200x150?text=Custom+Cake" alt="Custom Cake">
+        <h3>Custom Cake</h3>
+      </div>
+    </div>
+  </section>
+
+  <!-- Customer Reviews -->
+  <section class="reviews">
+    <h2>What Our Customers Say</h2>
+    <div class="review-grid">
+      <div class="review-card">
+        <p>"Best cake I've ever tasted!"</p>
+        <h4>- Priya</h4>
+      </div>
+      <div class="review-card">
+        <p>"Super fresh and beautifully decorated."</p>
+        <h4>- Rohan</h4>
+      </div>
+      <div class="review-card">
+        <p>"Perfect for birthdays and celebrations."</p>
+        <h4>- Ayesha</h4>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Follow us on:</p>
+    <div class="social-links">
+      <a href="https://instagram.com/rohan_toraskar_07" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" class="social-icon">
+      </a>
+      <a href="https://wa.me/919876543210" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" class="social-icon">
+      </a>
+    </div>
+    <p>&copy; 2025 Nami's Cake and Bake. All rights reserved.</p>
+  </footer>
+</body>
+</html>
